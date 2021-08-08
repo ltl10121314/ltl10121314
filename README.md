@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📝 Blog: https://liutianlong.top
--->
 - 📫 E-mail: liutl_wel@163.com
+-->
 
 ![](https://github-readme-stats.vercel.app/api?username=ltl10121314&theme=dark)
 
